@@ -1,4 +1,4 @@
-# HOME-AUTOMATION-PROJECT
+# HOME-AUTOMATION-PROJECT(PCB DESIGN)
 
 🏠 IoT-Based Home Automation System
 📌 Overview
